@@ -18,6 +18,7 @@ You can get the paper from https://arxiv.org/abs/2107.01602.
   ​					sudo cp -r /usr/local/include/eigen3 /usr/include
 
 - Intel TBB (optional)->sudo apt-get install libtbb-dev
+- [gtsam](https://github.com/borglab/gtsam) 
 - [IntelMkl](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html)(optional)
 
 ### 2)Clone repository to local machine
