@@ -1,8 +1,8 @@
 # GraphicalStateSpaceModel
 
 This library contains the open source codes for the paper "Graphical State Space Model".
-You can get the paper from https://arxiv.org/abs/2107.01602.
-
+You can get a preprint version of this paper from https://arxiv.org/abs/2107.01602.
+If you are interested in the application of GSSM on RTK, you may refer to https://github.com/shaolinbit/RTKinGSS
 
 
 ## How to use this library
