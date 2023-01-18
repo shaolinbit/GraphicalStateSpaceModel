@@ -5,7 +5,7 @@ You can get a preprint version of this paper from https://arxiv.org/abs/2107.016
 If you are interested in the application of GSSM on RTK, you may refer to https://github.com/shaolinbit/RTKinGSS
 Degree of Nonlinearity analysis file is added for the paper "Real-time Kinematic Positioning Algorithm in Graphical State Space" which will be presented at ITM2023.
 It is illustrated that DON of GSSM will be smalller than that of Traditional Discrete State Space Model.
-
+<img src="nonlinearity.png">
 ## How to use this library
 
 ### 1)Required
